@@ -82,7 +82,7 @@
   </div>
   <div style="text-align: center; font-size: 16px;">
     <h2>投稿作成画面（ワイヤーフレーム）</h2>
-    <img src="Car Meet ワイヤーフレーム（投稿作成ページ（写真・動画投稿を選択した場合））.drawio.png" alt="投稿作成 上部 WF" style="width:100%; max-height:500px; object-fit: contain;">
+    <img src="Car Meet ワイヤーフレーム（投稿作成ページ（写真・動画投稿を選択した場合））.drawio.png" alt="投稿作成 上部 WF" style="width:80%; max-height:400px; object-fit: contain;">
     <p>
       - 投稿作成時に、タイトル・キャプション・写真 or 動画の選択ができる構成です。<br>
       - 投稿内容の確認・カテゴリ選択・送信ボタンの配置構成です。<br>
