@@ -81,19 +81,12 @@
     </p>
   </div>
   <div style="text-align: center; font-size: 16px;">
-    <h2>投稿作成画面（ワイヤーフレーム上部）</h2>
-    <img src="Car Meet ワイヤーフレーム（投稿作成ページ（写真・動画投稿を選択した場合））.drawio-1.png" alt="投稿作成 上部 WF" style="width:100%; max-height:500px; object-fit: contain;">
+    <h2>投稿作成画面（ワイヤーフレーム）</h2>
+    <img src="Car Meet ワイヤーフレーム（投稿作成ページ（写真・動画投稿を選択した場合））.drawio.png" alt="投稿作成 上部 WF" style="width:100%; max-height:500px; object-fit: contain;">
     <p>
       - 投稿作成時に、タイトル・キャプション・写真 or 動画の選択ができる構成です。<br>
-      - 入力フォームやファイル選択UIの配置を確認できます。
-    </p>
-  </div>
-  <div style="text-align: center; font-size: 16px;">
-    <h2>投稿作成画面（ワイヤーフレーム下部）</h2>
-    <img src="Car Meet ワイヤーフレーム（投稿作成ページ（写真・動画投稿を選択した場合））.drawio-2.png" alt="投稿作成 下部 WF" style="width:100%; max-height:500px; object-fit: contain;">
-    <p>
       - 投稿内容の確認・カテゴリ選択・送信ボタンの配置構成です。<br>
-      - ページ下部の構成まで見えるよう、縦に分割して表示しています。
+      - 入力フォームやファイル選択UIの配置を確認できます。
     </p>
   </div>
 
