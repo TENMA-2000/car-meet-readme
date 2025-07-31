@@ -60,8 +60,8 @@
     <h2>投稿一覧画面</h2>
     <img src="postlist-page.png" alt="投稿一覧" style="width:100%; max-height:300px; object-fit: contain;">
     <p>
-      - 投稿を評価順・予約順・新着順で並び替えて表示できます。<br>
-      - 投稿キャプションや画像も一目で確認できるようにしています。
+      - 投稿キャプションや画像も一目で確認できるようにしています。<br>
+      - まだ未実装ですが、評価準・新着順での並び替えもできます。
     </p>
   </div>
   <div style="text-align: center; font-size: 16px;">
